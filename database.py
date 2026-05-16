@@ -5,7 +5,7 @@ conn=psycopg2.connect(
     host="localhost",
     database="sales_analytics",
     user="postgres",
-    password=112123,  # <-- replaced private password
+    password=*****,  # <-- replaced private password
     port=5432
 )
 cursor=conn.cursor()
