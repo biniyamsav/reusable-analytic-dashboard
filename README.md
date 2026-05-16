@@ -26,13 +26,16 @@ A production-ready sales analytics web application built with Streamlit and Post
 ## 📸 Screenshots
 
 ### Main Page — Dataset Manager
-![Main Page](assets/main_page.png)
+![Upload Page](assets/upload_page.png)
+![Revenue Page](assets/revenue_page_1.png)
 
-### Upload Page
 ![Upload Page](assets/upload_page.png)
 
+### Upload Page
+![Main Page](assets/main_page.png)
+
 ### Revenue Analysis
-![Revenue Page](assets/revenue_page_1.png)
+
 ![Revenue Page](assets/revenue_page_2.png)
 ![Revenue Page](assets/revenue_page_3.png)
 
